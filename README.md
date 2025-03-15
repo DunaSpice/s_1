@@ -18,8 +18,11 @@ and it will never work)
 The solution:
 
 https://youtu.be/3siCKNaqCaY
+https://youtu.be/h0j3SvPVl0g watch untill math solved) here is the run -> https://app.near.ai/agents/is_ai.near/s_1/latest/run?threadId=thread_77d805295ba44808ab3c1067
+
+Scrape and dowload.
 https://app.near.ai/agents/is_ai.near/s_1/0.0.3/run?threadId=thread_e486a6a23b1b4afe98baa813
-https://app.near.ai/agents/is_ai.near/s_1/latest/run?threadId=thread_77d805295ba44808ab3c1067
+
 
 Core Concepts
 
