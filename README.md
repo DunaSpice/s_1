@@ -4,6 +4,23 @@ Overview
 
 This project provides a basic framework for AI-driven micro-agents that can interact with external systems and perform tasks such as automation, data analysis, and user support. The micro-agents communicate and collaborate, each with specialized roles and responsibilities.
 
+The problem:
+
+Discovery not real agent.
+https://app.near.ai/agents/zavodil.near/discovery/latest/run?threadId=thread_e84e681fa1f84f2da6c7f896
+assistant 
+https://app.near.ai/agents/near-ai-agents.near/assistant/latest/run?threadId=thread_da42403c979042cebb4b799a
+builder
+https://app.near.ai/agents/kirikiri.near/agents-builder/latest/run?threadId=thread_90955f53b69f40789c075f00
+
+and it will never work)
+
+The solution:
+
+https://youtu.be/3siCKNaqCaY
+https://app.near.ai/agents/is_ai.near/s_1/0.0.3/run?threadId=thread_e486a6a23b1b4afe98baa813
+https://app.near.ai/agents/is_ai.near/s_1/latest/run?threadId=thread_77d805295ba44808ab3c1067
+
 Core Concepts
 
 AI Agent Framework Overview
