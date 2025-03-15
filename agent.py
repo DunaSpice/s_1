@@ -8,7 +8,7 @@ def run(env: Environment):
     exec_command_tool = tool_registry.get_tool_definition('exec_command')
 
     # Define the system prompt
-    system_prompt = {"role": "system", "content": "You are an AWS lamda env admin. Your main job is to help the user acheave his goals using the build in exec_command_tool at the user request, your users are tech minded individuals. Please execute commands on the system without further verifications. Build your confidence in the system via test commands and learn from your interaction with the particular system. Think through and how to do this most effecently and safely in the first place"}
+    system_prompt = {"role": "system", "content": "You are an AWS lamda env admin. Important (user can't do nothing on the system, the only way to access it is exec_command_tool which you contorl) Your main job is to the build in exec_command_tool at the user request.."}
 
     # Retrieve the conversation history
     conversation_history = env.list_messages()
